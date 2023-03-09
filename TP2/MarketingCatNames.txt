@@ -1,0 +1,35 @@
+ANADA
+ANDA
+Approved Drug Product Manufactured Under Contract
+BLA
+Bulk ingredient
+Bulk Ingredient For Animal Drug Compounding
+Bulk Ingredient For Human Prescription Compounding
+Conditional NADA
+Cosmetic
+Dietary Supplement
+Drug for Further Processing
+Emergency Use Authorization
+Exempt device
+Export only
+Humanitarian Device Exemption
+IND
+Medical Food
+Legally Marketed Unapproved New Animal Drugs for Minor Species
+Multi-Market Approved Product
+NADA
+NDA
+NDA authorized generic
+OTC Monograph Drug Product Manufactured Under Contract
+OTC monograph final
+OTC monograph not final
+Outsourcing Facility Compounded Human Drug Product (Exempt From Approval Requirements)
+Outsourcing Facility Compounded Human Drug Product (Not Marketed - Not Distributed)
+Premarket Application
+Premarket Notification
+SIP Approved Drug
+Unapproved drug for use in drug shortage
+Unapproved drug other
+Unapproved Drug Product Manufactured Under Contract
+Unapproved homeopathic
+Unapproved medical gas
